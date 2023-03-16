@@ -13,7 +13,6 @@ body {
 }
 
 .container {
-  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,7 +22,6 @@ body {
 }
 
 .box {
-  position: relative;
   width: 200px;
   height: 200px;
 
